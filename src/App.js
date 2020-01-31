@@ -34,8 +34,9 @@ class App extends React.Component {
   render() {
 
     return (
-      <div style={{textAlign: 'center'}}>
+      <div>
         <form>
+          <br />
           <h2>Player 1's Choice: </h2>
           <label>
               <input 
